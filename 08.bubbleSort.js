@@ -1,4 +1,4 @@
-const binarySort = (list)=>{
+const bubbleSort = (list)=>{
     for(let i=0;i<list.length;i++){
         for(let j=0;j<list.length-i-1;j++){
             if(list[j]>list[j+1]){
@@ -11,6 +11,6 @@ const binarySort = (list)=>{
     return list
 }
 
-let result = binarySort([1,4,12,6,8,2,5,4])
-console.log('~~~~BinarySort~~~~')
+let result = bubbleSort([1,4,12,6,8,2,5,4])
+console.log('~~~~bubbleSort~~~~')
 console.log(result)

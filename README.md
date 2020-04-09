@@ -13,3 +13,4 @@
 ## Divide and Conquer
     06.linearSearch.js
     07.binarySearch.js
+    08.bubbleSort.js
