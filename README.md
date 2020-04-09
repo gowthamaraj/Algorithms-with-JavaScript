@@ -12,3 +12,4 @@
     05.factorialWithMemoization - using recursion
 ## Divide and Conquer
     06.linearSearch.js
+    07.binarySearch.js
