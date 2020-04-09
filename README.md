@@ -14,3 +14,6 @@
     06.linearSearch.js
     07.binarySearch.js
     08.bubbleSort.js
+    09.mergeSort.js
+## Greedy Algorithms
+    10.greedyAlgorithm.js
