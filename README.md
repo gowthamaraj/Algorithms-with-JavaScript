@@ -10,3 +10,5 @@
     04.memoizationGeneric - pass a function as am argument to the main function.
 ## Recursion
     05.factorialWithMemoization - using recursion
+## Divide and Conquer
+    06.linearSearch.js
