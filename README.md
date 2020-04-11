@@ -3,6 +3,9 @@
 
 `Hence, we use methods to make a trade-off between them`
 
+## Some sorting Algorithm
+    00.insertionSort.js
+    00.quickSort.js
 ## Optimization with Caching
     01.uniqueSort.js  - Removes the reapeating values and sort the unique values.
     02.memoization.js - Memoization - caching a value that a function returns.
